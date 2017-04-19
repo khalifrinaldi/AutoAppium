@@ -1,11 +1,9 @@
 Auto Appium
-
 ================
 ----------------
 
 You can launch/Start and Stop Appium automatically.
-----------------
-================
+
 ----------------
 
 How to :
@@ -15,12 +13,9 @@ How to :
 3. Run
 
 ---------------
-===============
----------------
 
 Check my other repo for more tutorial or automaton framework
 
 ---------------
-===============
 
 If you have any specific queries reach out to me at [Github](https://github.com/raixa) or [E-Mail](mailto:khalif.rinaldi@gmail.com)
