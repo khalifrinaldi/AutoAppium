@@ -12,13 +12,13 @@ public class setup {
     public void PrepareAutomation() throws MalformedURLException {
         DesiredCapabilities capabilities = new DesiredCapabilities();
 //        #Fill value with your device ID (check using adb)
-        capabilities.setCapability("deviceName", "192.168.56.101:5555");
+        capabilities.setCapability("deviceName", "DeviceID");
         capabilities.setCapability(CapabilityType.BROWSER_NAME, "Android");
 //        #Fill value with your android version
-        capabilities.setCapability(CapabilityType.VERSION, "5.0");
+        capabilities.setCapability(CapabilityType.VERSION, "Android Version");
         capabilities.setCapability("platformName", "Android");
 //        #Fill value with your path where .apk saved
-        capabilities.setCapability("app", "/Users/Khalif/Automation/autoAppium/apps/flipkart.apk");
+        capabilities.setCapability("app", "Your path ~/apps/flipkart.apk");
 //        #Fill value with to your app package
         capabilities.setCapability("appPackage", "com.flipkart.android");
 //        #Fill value with your launchable activity

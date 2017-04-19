@@ -10,7 +10,8 @@ How to :
 
 1. Clone / Download
 2. Open using IDE (Eclipse / Intellij)
-3. Run
+3. Set your device on setup.java
+4. Run your test
 
 ---------------
 
